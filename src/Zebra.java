@@ -1,7 +1,7 @@
 public class Zebra extends Animal{
 
     public Zebra(){
-        numLegs = 4;
+        setNumLegs(4);
     }
 
     @Override
